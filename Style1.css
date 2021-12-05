@@ -58,7 +58,7 @@ body {
 	width: 90%;
 	color: #fff;
 	padding: 20px;
-	background-color: #347780 /*@7bb53e*/;
+	background-color: #eb8634 /*@7bb53e*/;
 	margin: auto;
 }
 body {
@@ -154,7 +154,7 @@ h1{
 }
 
 .logout{
-	background-color: #137180;
+	background-color: #eb8634;
 	color: white;
 	border:none;
 	font-size: 10px;
@@ -165,7 +165,7 @@ h1{
 
 .logout:hover{
 	background-color: #fff;
-	color: #137180;
+	color: #eb8634 /*#137180*/;
 	border:none;
 	font-size: 10px;
 	height: 40px;
