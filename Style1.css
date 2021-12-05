@@ -67,7 +67,7 @@ body {
  
 /* Add a black background color to the top navigation */
 .topnav {
-	background-color: #e9e9e9;
+	background-color: #fff;
 	overflow: hidden;
 	width: 100%;
 	position: fixed;
@@ -182,7 +182,7 @@ h1{
 }
 
 .profil img{
-	width: 60%;
+	width: 40%;
 }
 
 .left{
@@ -241,7 +241,7 @@ color: green;
 
 
 img{
-	width: 300px;
+	width: 30%;
 }
 
 p{
@@ -270,7 +270,7 @@ h3{
 }
 
 .menudown a{
-	background-color: #347780;
+	background-color: #eb8634;
 	padding: 10px;
 	color: #fff;
 	width: 50%;
@@ -349,13 +349,13 @@ section p{
 
 .agir{
 	text-align: center;
-	background-color: #232529;
+	background-color: #fff;
 }
 
 .agir p{
   	 margin: 0;
 	text-align: center;
-	color:#fff;
+	color: #eb8634;
 	font-weight: 500;
 	line-height: 60px;
 }
