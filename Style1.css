@@ -16,7 +16,7 @@ body {
 	left: 0;
 	font-family: sans-serif;
 	box-shadow: 2px 1px 11px gray;
-	background-color: #137180; /* white*/
+	background-color: #c97530; /* white*/
 	overflow-x: hidden; /* Disable horizontal scroll */
 	overflow-y: hidden;
 	padding-top: 60px; /* Place content 60px from the top */
@@ -43,7 +43,7 @@ body {
 .sidenav .closebtn {
 	position: absolute;
 	top: 0;
-	background-color: #137180;
+	background-color: #c97530;
 	width: 15%;
 	right: 0;
 	overflow: hidden;
