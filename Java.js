@@ -1,11 +1,11 @@
-const alert=()=>{
+/*const alert=()=>{
 swal({
   title: "Compte bloquer",
   text: "Remplissez les conditions pour reactiver votre Compte",
   icon: "warning",
   dangerMode: true,
 })}
-
+*/
 
 /*.then((willDelete) => {
   if (willDelete) {
