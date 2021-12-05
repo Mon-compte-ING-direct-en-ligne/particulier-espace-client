@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+}
+
+
+.pr{
+    margin: 10%;
+}
+
+img{
+	width: 50%;
+}
+
+h1{
+	font-family: arial;
+}
+
+label{
+    font-family: sans-serif;
+    color: gray;
+}
+
+input{
+    width: 70%;
+    background-color: #fff;
+    padding: 0.5em;
+    outline: none;
+    border-radius: 3px;
+    border:1px solid #d4d4d4;
+}
+
+input:hover{
+    width: 70%;
+    background-color: #fff;
+    padding: 2px;
+    outline: none;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    padding: 7px;
+    width: 30%;
+    border-radius:5px;
+    font-size: 15px;
+}
+
+.sec{
+    background-color: gray;
+    color: #fff;
+    padding: 10px;
+    height:200px;
+}
+
+.sec p{
+    font-family: arial;
+}
+
+.sec a{
+    font-family: arial;
+    color: #fff;
+}
